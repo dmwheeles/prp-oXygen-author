@@ -10,3 +10,7 @@ Author template for reading / editing PRP conversations in oXygen.
  - Add New
 
 Toggle over to CSS controls and add location of new CSS file.
+
+Screenshot:
+
+![alt tag](https://raw.githubusercontent.com/dmwheeles/prp-oXygen-author/master/help_img/oxygen_author_doctypeadd.png)
